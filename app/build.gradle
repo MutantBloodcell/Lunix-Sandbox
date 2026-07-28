@@ -10,11 +10,11 @@ android {
     compileSdk = 37
 
     defaultConfig {
-        applicationId "com.vectras.vm"
+        applicationId "com.lunix.sandbox"
         minSdk minApi
         targetSdk targetApi
         versionCode 155
-        versionName "4.4.8"
+        versionName "1.0.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
 
