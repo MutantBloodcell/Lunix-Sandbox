@@ -7,26 +7,25 @@
 </p>
 </div>
 
-# 🪴 Vectras VM
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+# 🪴 Lunix Sandbox
 
-![GitHub Repo stars](https://img.shields.io/github/stars/xoureldeen/Vectras-VM-Android)
-![GitHub watchers](https://img.shields.io/github/watchers/xoureldeen/Vectras-VM-Android)
-![GitHub forks](https://img.shields.io/github/forks/xoureldeen/Vectras-VM-Android)
-[![Total downloads](https://img.shields.io/github/downloads/xoureldeen/Vectras-VM-Android/total)](https://github.com/xoureldeen/Vectras-VM-Android/releases)
+![GitHub Repo stars](https://img.shields.io/github/stars/MutantBloodcell/Lunix-Sandbox)
+![GitHub watchers](https://img.shields.io/github/watchers/MutantBloodcell/Lunix-Sandbox)
+![GitHub forks](https://img.shields.io/github/forks/MutantBloodcell/Lunix-Sandbox)
+[![Total downloads](https://img.shields.io/github/downloads/MutantBloodcell/Lunix-Sandbox/total)](https://github.com/MutantBloodcell/Lunix-Sandbox/releases)
 [![Discord server](https://img.shields.io/discord/911060166810681345)][link-discord]
 [![Telegram Channel][ico-telegram]][link-telegram]
 [![Software License][ico-license]](LICENSE)
 
-Welcome to Vectras VM! A virtual machine app for Android based on QEMU that lets you emulate various OSes including: [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](https://www.apple.com/macos) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/).
+Welcome to Lunix Sandbox! A virtual machine app for Android based on QEMU that lets you emulate various OSes including: [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](https://www.apple.com/macos) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/).
 
-If you need help, check out [our documentation](https://vectras.vercel.app/how.html). For quick answers, join the [Vectras Telegram group](http://t.me/vectras_vm_discussion). And here's a suggestion if you're new to Vectras VM:
+If you need help, check out [our documentation](https://vectras.vercel.app/how.html). For quick answers, join the [Lunix Telegram group](http://t.me/Mutant_Bloodcell). And here's a suggestion if you're new to Vectras VM:
 
 [![Tutorial for beginners](https://img.youtube.com/vi/L6ADe5aVp0Y/mqdefault.jpg)](https://www.youtube.com/watch?v=L6ADe5aVp0Y)
 
 ## 📱 Device Compatibility
 
-Works fine on devices manufactured in 2021 or later and devices equipped with Snapdragon 855 CPU or better. You can try running Vectras VM on unsupported devices, but we cannot guarantee stability or support. Here are the devices tested:
+Works fine on devices manufactured in 2021 or later and devices equipped with Snapdragon 855 CPU or better. You can try running Lunix Sandbox on unsupported devices, but we cannot guarantee stability or support. Here are the devices tested:
 
 | Brands       | Compatibility status |
 | ------------ | -------------------- |
@@ -63,18 +62,13 @@ Works fine on devices manufactured in 2021 or later and devices equipped with Sn
 
 ### ✅ Stable Releases
 
-You can download Vectras VM from the [releases](https://github.com/xoureldeen/Vectras-VM-Android/releases) page or the [official website](https://vectras.vercel.app/download.html).
-
-or
-
-
-[![OpenAPK](https://img.shields.io/badge/Get%20it%20on-OpenAPK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.openapk.net/vectras-vm/com.vectras.vm/)
+You can download Lunix Sandbox from the [releases](https://github.com/MutantBloodcell/Lunix-Sandbox/releases) page.
 
 ### 🧪 Beta Releases
 
 We publish a **new beta release after every commit** — so you can always test the latest features and improvements!
 
-[![Download Beta](https://img.shields.io/badge/Download-Beta-blue?style=for-the-badge&logo=github)](https://github.com/AnBui2004/Vectras-VM-Emu-Android/releases)
+[![Download Beta](https://img.shields.io/badge/Download-Beta-blue?style=for-the-badge&logo=github)](https://github.com/MutantBloodcell/Lunix-Sandbox/releases)
 
 ### ⚙️ Bootstraps
 QEMU 7.2.22 - 3dfx is here!
@@ -91,20 +85,12 @@ Play classic games with 3Dfx support on Windows 95, 98, ME, 2000, and XP! Turnip
 ### 😼 Advanced
 Advanced options are [here](ADVANCED.md).
 
-# ▶️ We're now on the Play Store
-Vectras VM is on the Play Store with the new Qemu 10, it runs natively on Android instead of requiring proot like the version on GitHub. Try it now!
-
-![Version](https://img.shields.io/endpoint?url=https://play.cuzi.workers.dev/play?id=com.vectrasllc.vm&label=Play%20Store&message=$version&color=blue)
-
-<a href="https://play.google.com/store/apps/details?id=com.vectrasllc.vm">
-<img src="resources/GetItOnGooglePlay_Badge_Web_color_English.png" style="width: 192px;" />
-</a>
 
 # 💕 Donate
 Help support the project by contributing!
 
 [![Buy Me a Coffee at ko-fi.com][ico-ko-fi]][link-ko-fi]
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=flat)](https://patreon.com/VectrasTeam)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=flat)](https://patreon.com/MutantBloodcell)
 
 # ❤️ Thanks to
 - [3DFX QEMU PATCH](https://github.com/kjliew/qemu-3dfx)
@@ -136,7 +122,7 @@ Help support the project by contributing!
 [ico-ko-fi]: https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white
 
 [link-discord]: https://discord.gg/t8TACrKSk7
-[link-telegram]: https://t.me/vectras_os
-[link-repo]: https://github.com/xoureldeen/Vectras-VM-Android/
-[link-releases]: https://github.com/xoureldeen/Vectras-VM-Android/releases/
+[link-telegram]: https://t.me/Mutant_Bloodcell
+[link-repo]: https://github.com/MutantBloodcell/Lunix-Sandbox/
+[link-releases]: https://github.com/MutantBloodcell/Lunix-Sandbox/releases/
 [link-ko-fi]: https://ko-fi.com/vectrasvm
