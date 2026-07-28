@@ -19,7 +19,7 @@
 
 Welcome to Lunix Sandbox! A virtual machine app for Android based on QEMU that lets you emulate various OSes including: [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](https://www.apple.com/macos) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/).
 
-If you need help, check out [our documentation](https://vectras.vercel.app/how.html). For quick answers, join the [Lunix Telegram group](http://t.me/Mutant_Bloodcell). And here's a suggestion if you're new to Vectras VM:
+If you need help, check out [our documentation](https://vectras.vercel.app/how.html). For quick answers, join the [Lunix Telegram group](http://t.me/Mutant_Bloodcell). And here's a suggestion if you're new to Lunix Sandbox:
 
 [![Tutorial for beginners](https://img.youtube.com/vi/L6ADe5aVp0Y/mqdefault.jpg)](https://www.youtube.com/watch?v=L6ADe5aVp0Y)
 
