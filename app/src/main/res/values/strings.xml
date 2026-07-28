@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Vectras VM</string>
+    <string name="app_name">Lunix Sandbox</string>
 
     <!--======================VECTRAS STRINGS====================-->
     <string name="qemu_version" translatable="false">Stable</string>
@@ -26,7 +26,7 @@
     <string name="keyboard">KEYBOARD</string>
     <string name="name">name</string>
     <string name="size">size:</string>
-    <string name="vectras_website">Vectras website</string>
+    <string name="vectras_website">Lunix website</string>
     <string name="about">About</string>
     <string name="settings">Settings</string>
     <string name="username">USERNAME</string>
@@ -256,13 +256,13 @@
     <string name="mirrors">Mirrors</string>
     <string name="letstart">Let\'s start</string>
     <string name="welcome">Welcome!</string>
-    <string name="welcome_to_vectras_vm_lets_get_started">Welcome to Vectras VM. Let\'s get started!</string>
+    <string name="welcome_to_vectras_vm_lets_get_started">Welcome to Lunix Sandbox. Let\'s get started!</string>
     <string name="processing_this_may_take_a_few_minutes">Processing...\nThis may take a few minutes.</string>
     <string name="update">Update</string>
     <string name="ok">OK</string>
     <string name="you_are_using_beta_version">You are using Beta version</string>
     <string name="switch_to_check_for_updates_on_the_Beta_channel_now">Switch to check for updates on the Beta channel now.</string>
-    <string name="you_need_to_complete_vectras_vm_setup_before_importing_this_file">You need to complete Vectras VM setup before importing this file.</string>
+    <string name="you_need_to_complete_vectras_vm_setup_before_importing_this_file">You need to complete Lunix Sandbox setup before importing this file.</string>
     <string name="unable_to_create_the_directory_to_create_the_vm">Unable to create directory to create virtual machine, this may be because you have not granted permission, there is not enough free space of internal storage or other.</string>
     <string name="with">With</string>
     <string name="not_the_command_to_run_qemu">Not the command to run Qemu.</string>
@@ -278,7 +278,7 @@
     <string name="disclaimer_here">When you import any ROM or use files that contain anything, you accept all of this. Click here to read it all.</string>
     <string name="join_now_on_telegram_if_you_want">Join now on Telegram if you want.</string>
     <string name="donate">Donate</string>
-    <string name="donatecontent">If you really like Vectras VM, you can donate to us on Patreon. Thanks a lot!</string>
+    <string name="donatecontent">If you really like Lunix Sandbox, you can donate to us on Patreon. Thanks a lot!</string>
     <string name="you_are_ready_to_go">You are ready to go!</string>
     <string name="shared_folder_is_not_used_because_i386_does_not_support_it">Shared Folder is not used because i386 does not support it.</string>
     <string name="use_uefi">Use UEFI</string>
@@ -459,7 +459,7 @@
     <string name="something_went_wrong">Something went wrong</string>
     <string name="the_setup_could_not_be_completed_and_below_is_the_log">The setup could not be completed and below is the log.</string>
     <string name="this_option_is_temporarily_unavailable_because_the_server_cannot_be_connected">This option is temporarily unavailable because the server cannot be connected.</string>
-    <string name="vectras_vm_cannot_run_on_this_device">Vectras VM cannot run on this device.</string>
+    <string name="vectras_vm_cannot_run_on_this_device">Lunix Sandbox cannot run on this device.</string>
     <string name="not_enough_storage_space">Not enough storage space.</string>
     <string name="there_are_no_logs">There are no logs.</string>
     <string name="the_required_package_is_not_installed_content">The required package is not installed, you need to install it before using this feature.</string>
